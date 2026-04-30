@@ -9,4 +9,10 @@ export const projects = [
     description: "Scripts for automating account resets and diagnostics.",
     link: "https://github.com/yourname/it-scripts",
   },
+  {
+    title: "WebSpark",
+    description:
+      "AI creaated HTML page for Austic Kids to learn different stuff they struggle with",
+    link: "https://github.com/danlinuxza/wordspark",
+  },
 ];
